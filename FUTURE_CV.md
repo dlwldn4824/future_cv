@@ -21,6 +21,11 @@
   - 데이터 파이프라인 설계 및 대용량 처리
   - 모델 성능 개선 및 실서비스 적용 경험
 
+> 🚀 **Key Achievements**
+> - CTR 18% 향상
+> - 처리 속도 40% 개선
+> - 모델 정확도 91%
+
 ---
 
 ## Education
@@ -47,6 +52,14 @@
 ---
 
 ## Project Experience
+
+## 📊 Project Summary
+
+| Project | 핵심 기술 | 성과 |
+|--------|----------|------|
+| 계약서 분석 (RAG) | RAG, FAISS, LLM | 정확도 91% |
+| 유튜브 댓글 분석 | BERT, LDA, BERTopic | 정확도 89% |
+| 취업 공고 분석 | TF-IDF | 1,000건+ 분석 |
 
 ### 1) RAG 기반 계약서 위험 조항 분석 시스템 — 법률 문서 AI 분석
 - 기간: [2027.01] – [2027.06]
@@ -104,11 +117,41 @@
 ---
 
 ## Skills
-- **Languages**: Python, Java , JavaScript , React
-- **Frameworks**: PyTorch, Scikit-learn, HuggingFace
-- **Data/ML**: Pandas, NumPy, Spark, NLP, LDA, BERT
-- **DevOps/Cloud**: Docker, AWS, GitHub Actions
-- **Collaboration**: Git, Notion, Jira
+## 🧩 Skills
+
+| Category | Skills |
+|---|---|
+| Languages | Python, Java, JavaScript |
+| ML / NLP | PyTorch, HuggingFace, LDA, BERT, RAG, BERTopic |
+| Data | Pandas, NumPy, Spark |
+| DevOps / Cloud | Docker, AWS, GitHub Actions |
+| Collaboration | Git, Notion, Jira |
+
+## ⚙️ Tech Stack
+
+`Python` `PyTorch` `BERT` `Spark` `AWS` `Docker`
+
+## ✅ Experience Highlights
+
+- [x] NLP 기반 모델 개발 경험
+- [x] 대용량 데이터 처리 경험
+- [x] 추천 시스템 구현 경험
+
+---
+
+## 🕒 Timeline
+
+- 2026.03 ~ 2026.06 : 취업 공고 분석 프로젝트
+- 2026.09 ~ 2026.12 : 유튜브 댓글 분석 프로젝트
+- 2027.01 ~ 2027.06 : RAG 계약서 분석 시스템
+- 2027.07 ~ 2027.12 : 네이버 인턴
+
+---
+
+## 🔗 Links
+
+- GitHub: https://github.com/dlwldn4824
+- Repo: https://github.com/dlwldn4824/future_cv
 
 ---
 
