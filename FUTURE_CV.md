@@ -2,87 +2,119 @@
 > **주의**: 아래 내용은 *미래의 나를 상상하여 작성한 가상 이력서(Future CV)* 입니다. 사실로 받아들이지 마세요.
 
 ## Name
-- **이름**: [여기에 이름]
-- **이메일**: [name@example.com]
+- **이름**: 이지우
+- **이메일**: dlwldn4824@naver.com
 - **링크**
-  - **GitHub**: https://github.com/[username]
-  - **Portfolio**: https://[username].github.io/[repo-or-site]/
-  - **LinkedIn**: https://www.linkedin.com/in/[id]/
+  - **GitHub**: https://github.com/dlwldn4824
+  
+
+---
 
 ## Summary (희망 직무 포함)
-[2~4문장 자기소개: 어떤 문제를 어떻게 푸는 사람인지 + 희망 직무 + 강점 키워드]
+데이터 분석과 머신러닝을 활용해 문제를 구조적으로 해결하는 것을 목표로 하는 개발자입니다.
+텍스트 마이닝, 머신러닝 모델링, 그리고 실제 데이터를 활용한 프로젝트 경험을 통해 데이터 기반 의사결정 역량을 키우고 있습니다.
+특히 텍스트 데이터 분석과 추천/분류 시스템에 관심이 있으며, 실용적인 서비스 구현까지 연결하는 것을 지향합니다.
 
-- **희망 직무**: [예: Backend Engineer / Data Engineer / ML Engineer / Security Engineer]
+- **희망 직무**: Data Engineer / ML Engineer
 - **핵심 역량**
-  - [역량 1]
-  - [역량 2]
-  - [역량 3]
+  - NLP 기반 텍스트 마이닝 및 모델링 (LDA, BERT, RAG)
+  - 데이터 파이프라인 설계 및 대용량 처리
+  - 모델 성능 개선 및 실서비스 적용 경험
+
+---
 
 ## Education
-- **[학교명]**, [전공] — [학위/과정]
-  - 기간: [YYYY.MM] – [YYYY.MM]
-  - 주요 과목: [과목1], [과목2], [과목3]
-  - 학점/성적(선택): [예: 4.2/4.5]
+- **광운대학교**, 정보융합학부 — 학사 (조기졸업)
+  - 기간: 2024.03 – 2027.02
+  - 주요 과목: 머신러닝, 데이터베이스, 확률 및 통계, 모바일 로봇, 오픈소스소프트웨어
+  - 학점/성적: 전체 평점 4.35/4.5, 전공 평점 4.5/4.5
+
+- **고려대학교**, 컴퓨터학과 — 석사
+  - 기간: 2027.03 – 2028.02
+
+---
 
 ## Internship Experience
-- **[회사/기관명] — [직무/팀]**
-  - 기간: [YYYY.MM] – [YYYY.MM]
-  - 한 줄 소개: [어떤 제품/서비스/팀인지]
+- **네이버 — AI Recommendation Team (ML Engineer Intern)**
+  - 기간: 2027.07 – 2027.12 
+  - 한 줄 소개: 사용자 행동 기반 추천 시스템 개선 팀
   - **주요 성과**
-    - [정량/정성 성과 1]
-    - [정량/정성 성과 2]
-    - [정량/정성 성과 3]
-  - **기술 스택**: [예: Python, Java, Spring, MySQL, Docker, AWS]
-  - **관련 링크(선택)**: [인턴 회고/노션/블로그 글 제목](https://example.com)
+    - 뉴스 추천 모델에 NLP 기반 feature 추가 → 클릭률(CTR) 18% 향상
+    - 사용자 로그 데이터 1억 건 처리 파이프라인 구축 → 처리 속도 40% 개선
+    - LightGBM + BERT hybrid 모델 적용으로 cold start 문제 개선
+  - **기술 스택**: Python, PyTorch, Spark, AWS, Docker
+
+---
 
 ## Project Experience
-> 가능하면 프로젝트마다 **역할/문제/해결/성과/기술**을 구조적으로 적어주세요.
 
-### 1) [프로젝트명] — [한 줄 설명]
-- 기간: [YYYY.MM] – [YYYY.MM]
-- 역할: [예: 팀장/백엔드/프론트/데이터]
-- **문제(Problem)**: [해결하려던 문제]
+### 1) RAG 기반 계약서 위험 조항 분석 시스템 — 법률 문서 AI 분석
+- 기간: [2027.01] – [2027.06]
+- 역할: [팀장 / ML Engineer]
+- **문제(Problem)**: 일반 사용자가 계약서의 위험 조항을 이해하기 어려움
 - **해결(Solution)**:
-  - [핵심 구현/설계 1]
-  - [핵심 구현/설계 2]
+  - RAG(Retrieval-Augmented Generation) 구조 설계
+  - 문서 임베딩 + 벡터 DB 기반 조항 검색 시스템 구축
+  - LLM을 활용한 위험도 요약 및 설명 생성
 - **성과(Impact)**:
-  - [정량 성과: 예. 응답시간 40% 개선 / 비용 20% 절감 / 사용자 1만명]
-- **Tech**: [기술/도구]
-- **Links**
-  - Repo: https://github.com/[username]/[repo]
-  - Demo: https://[username].github.io/[repo]/
-  - 문서: [프로젝트 문서 링크](https://example.com)
+  - 위험 조항 탐지 정확도 91%
+  - 사용자 테스트에서 이해도 35% 향상
+- **Tech**: Python, FAISS, LangChain, OpenAI 
 
-### 2) [프로젝트명] — [한 줄 설명]
-- 기간: [YYYY.MM] – [YYYY.MM]
-- 역할: [역할]
-- **주요 내용**
-  - [항목 1]
-  - [항목 2]
-- **Links**
-  - Repo: https://github.com/[username]/[repo]
+### 2) 유튜브 댓글 기반 여론 분석 시스템 — 감성 + 토픽 분석
+- 기간: 2026.09 – 2026.12
+- 역할: 데이터 분석 / 모델링
+- **문제(Problem)**: 영상별 여론 흐름을 정량적으로 파악하기 어려움
+- **해결(Solution)**:
+  - BERT 기반 감성 분석 모델 구축
+  - LDA + BERTopic으로 주요 토픽 추출
+  - 시간 흐름에 따른 여론 변화 시각화
+- **성과(Impact)**:
+  - 감성 분석 정확도 89%
+  - 주요 이슈 토픽 자동 추출 성공
+- **Tech**: Python, HuggingFace, Scikit-learn, Plotly
+
+### 3) 취업 공고 분석 기반 맞춤 스킬 추천 시스템
+- 기간: 2026.03 – 2026.06
+- 역할: 개인 프로젝트
+- **문제(Problem)**: 직무별 요구 역량 파악의 어려움
+- **해결(Solution)**:
+  - TF-IDF + 키워드 추출로 직무별 핵심 스킬 도출
+  - 사용자 보유 스킬과 비교하여 부족 역량 추천
+- **성과(Impact)**:
+  - 1,000개 이상의 공고 분석
+  - 사용자 맞춤 스킬 추천 정확도 개선
+- **Tech**: Python, Pandas, Scikit-learn
+
+---
 
 ## Certifications
-- **[자격증명]** — [발급기관]
-  - 취득일: [YYYY.MM]
-  - 인증번호(선택): [ID]
-  - 링크(선택): https://example.com
+- **ADsP (데이터 분석 준전문가)** — 한국데이터산업진흥원
+  - 취득일: 2026.08
+- **SQLD** — 한국데이터산업진흥원
+  - 취득일: 2026.10
+
+---
 
 ## Awards
-- **[수상명/대회명]** — [주최]
-  - 수상일: [YYYY.MM]
-  - 수상 내용: [무엇을 왜 인정받았는지]
-  - 링크(선택): https://example.com
+- **데이터 분석 경진대회 대상** — 광운대학교
+  - 수상일: 2027.05
+  - 수상 내용: 텍스트 마이닝 기반 여론 분석 모델 개발
+
+---
 
 ## Skills
-- **Languages**: [예: Python, Java, JavaScript/TypeScript, SQL]
-- **Frameworks**: [예: Spring, Django, React]
-- **Data/ML**: [예: Pandas, Spark, PyTorch]
-- **DevOps/Cloud**: [예: Docker, GitHub Actions, AWS]
-- **Collaboration**: [예: Git, Jira, Notion]
+- **Languages**: Python, Java , JavaScript , React
+- **Frameworks**: PyTorch, Scikit-learn, HuggingFace
+- **Data/ML**: Pandas, NumPy, Spark, NLP, LDA, BERT
+- **DevOps/Cloud**: Docker, AWS, GitHub Actions
+- **Collaboration**: Git, Notion, Jira
+
+---
 
 ## References
-- **[추천인 이름]**, [소속/직책]
-  - 관계: [예: 오픈소스소프트웨어실습 담당 교수]
-  - 이메일(또는 연락처): [여기에 이메일]
+- **박규동**, 부교수
+  - 관계: 오픈소스소프트웨어실습 담당 교수
+  - 연락처: 02-940-5638
+  - 이메일: kdpark@kw.ac.kr
 
