@@ -23,18 +23,18 @@ blockquote {
   padding-left: 1rem;
 }
 
-/* Hide minimal theme sidebar (blue title area) */
-.sidebar {
+/* minimal theme: remove left header area, use single column */
+header {
   display: none !important;
 }
 
-/* Expand content to full width when sidebar hidden */
 .wrapper {
   max-width: 980px;
-  padding: 0 16px;
+  padding: 24px 16px;
 }
 
 section {
-  width: auto !important;
+  width: 100% !important;
   float: none !important;
+  margin: 0 !important;
 }
