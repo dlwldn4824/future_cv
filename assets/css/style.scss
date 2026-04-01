@@ -28,6 +28,10 @@ header {
   display: none !important;
 }
 
+footer {
+  display: none !important;
+}
+
 .wrapper {
   max-width: 980px;
   padding: 24px 16px;
@@ -37,4 +41,9 @@ section {
   width: 100% !important;
   float: none !important;
   margin: 0 !important;
+}
+
+/* make sure nothing floats into content */
+body, .wrapper, section {
+  clear: both;
 }
