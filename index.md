@@ -23,9 +23,9 @@
   - 모델 성능 개선 및 실서비스 적용 경험
 
 > 🚀 **Key Achievements**
-> - CTR 18% 향상
-> - 처리 속도 40% 개선
-> - 모델 정확도 91%
+> - CTR 18% 향상 *(Internship: Naver — AI Recommendation)*
+> - 처리 속도 40% 개선 *(Internship: Naver — AI Recommendation)*
+> - 모델 정확도 91% *(Project: RAG 계약서 위험 조항 분석)*
 
 ---
 

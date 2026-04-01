@@ -22,9 +22,9 @@
   - 모델 성능 개선 및 실서비스 적용 경험
 
 > 🚀 **Key Achievements**
-> - CTR 18% 향상
-> - 처리 속도 40% 개선
-> - 모델 정확도 91%
+> - CTR 18% 향상 *(Internship: Naver — AI Recommendation)*
+> - 처리 속도 40% 개선 *(Internship: Naver — AI Recommendation)*
+> - 모델 정확도 91% *(Project: RAG 계약서 위험 조항 분석)*
 
 ---
 
@@ -242,7 +242,7 @@
 
 `Python` `PyTorch` `BERT` `Spark` `AWS` `Docker`
 
-## Experience Highlights
+## 💻 Experience Highlights
 
 - [x] NLP 기반 모델 개발 경험
 - [x] 대용량 데이터 처리 경험
