@@ -247,7 +247,7 @@
 
 `Python` `PyTorch` `BERT` `Spark` `AWS` `Docker`
 
-## ✅ Experience Highlights
+## 💻 Experience Highlights
 
 - [x] NLP 기반 모델 개발 경험 *(Research + Projects: LDA/BERT/RAG, 유튜브 댓글 분석, 계약서 분석)*
 - [x] 대용량 데이터 처리 경험 *(Internship: 네이버 로그 1억 건 파이프라인 / Data: Spark)*
