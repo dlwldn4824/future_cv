@@ -22,3 +22,19 @@ blockquote {
   border-left: 4px solid #d0d7de;
   padding-left: 1rem;
 }
+
+/* Hide minimal theme sidebar (blue title area) */
+.sidebar {
+  display: none !important;
+}
+
+/* Expand content to full width when sidebar hidden */
+.wrapper {
+  max-width: 980px;
+  padding: 0 16px;
+}
+
+section {
+  width: auto !important;
+  float: none !important;
+}
