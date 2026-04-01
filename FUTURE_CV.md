@@ -94,7 +94,7 @@
 - **Tech**: React, JavaScript, Node.js, Express
 
 ### 2) 테미 안내 로봇 UI 개발 — 사용자 인터페이스 설계
-- 기간: 2026.04 – 2026.06
+- 기간: 2025.09 – 2026.06
 - 역할: UI 설계 및 프론트엔드 개발
 - **문제(Problem)**
   - 안내 로봇 사용 시 사용자 인터페이스가 직관적이지 않아 조작 어려움 발생
@@ -244,9 +244,9 @@
 
 ## 💻 Experience Highlights
 
-- [x] NLP 기반 모델 개발 경험
-- [x] 대용량 데이터 처리 경험
-- [x] 추천 시스템 구현 경험
+- [x] NLP 기반 모델 개발 경험 *(Research + Projects: LDA/BERT/RAG, 유튜브 댓글 분석, 계약서 분석)*
+- [x] 대용량 데이터 처리 경험 *(Internship: 네이버 로그 1억 건 파이프라인 / Data: Spark)*
+- [x] 추천 시스템 구현 경험 *(Internship: 네이버 추천 모델 개선 / Projects: 취업 공고 기반 추천)*
 
 ---
 
