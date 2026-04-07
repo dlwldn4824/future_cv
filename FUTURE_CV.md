@@ -44,8 +44,8 @@
 
 ## 🔬 Research Experience
 
-- **학부연구생 (Undergraduate Researcher)** — 광운대학교 정보융합학부 
-- 기간: 2026.09 – 2027.12
+- **학부연구생 (Undergraduate Researcher)** — 광운대학교 정보융합학부 ([Data Analytics Lab.](https://sites.google.com/view/minsucho))
+  - 기간: 2026.09 – 2027.12
   - NLP 및 텍스트 마이닝 기반 연구 참여
   - 토픽 모델링(LDA) 및 문서 임베딩 기반 실험 수행
   - 논문 및 관련 연구 자료 분석 및 구현

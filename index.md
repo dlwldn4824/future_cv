@@ -44,7 +44,7 @@
 
 ## 🔬 Research Experience
 
-- **학부연구생 (Undergraduate Researcher)** — 광운대학교 정보융합학부, 박규동 교수 연구실
+- **학부연구생 (Undergraduate Researcher)** — 광운대학교 정보융합학부, 박규동 교수 연구실 ([Data Analytics Lab.](https://sites.google.com/view/minsucho))
   - 기간: 2026.09 – 2027.12
   - NLP 및 텍스트 마이닝 기반 연구 참여
   - 토픽 모델링(LDA) 및 문서 임베딩 기반 실험 수행
