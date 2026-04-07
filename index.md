@@ -4,9 +4,10 @@
 
 ## 🔗 Links
 
-- Email: dlwldn4824@naver.com
-- GitHub: https://github.com/dlwldn4824
-- Repository: https://github.com/dlwldn4824/future_cv
+- Email: [dlwldn4824@naver.com](mailto:dlwldn4824@naver.com)
+- GitHub: [github.com/dlwldn4824](https://github.com/dlwldn4824)
+- Repository: [github.com/dlwldn4824/future_cv](https://github.com/dlwldn4824/future_cv)
+- GitHub Pages: [dlwldn4824.github.io/future_cv](https://dlwldn4824.github.io/future_cv/)
 
 ---
 
@@ -271,5 +272,5 @@
 - **박규동**, 부교수
   - 관계: 오픈소스소프트웨어실습 담당 교수
   - 연락처: 02-940-5638
-  - 이메일: kdpark@kw.ac.kr
+  - 이메일: [kdpark@kw.ac.kr](mailto:kdpark@kw.ac.kr)
 
